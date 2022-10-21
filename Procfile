@@ -1,0 +1,1 @@
+web: gunicorn recepy_book.wsgi --log-file -
